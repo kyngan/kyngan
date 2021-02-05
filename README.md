@@ -9,16 +9,12 @@
 - 樹藝攀樹
 - 網站設計
 
-您可以在工作記錄中找到我過去做的事情，
+### 工作記錄
+
 如果您有相關需求或問題查詢，歡迎跟我聯繫。
 
 ### 個人經歷
-
-2010 - 2013:
-    香港城市大學 - 應用生物系畢業
-2015 - 現在:
-    國際樹藝協會 (International Society of Arboriculture, ISA) - 認證樹藝師 
-2015 - 2020:
-    財團法人梧桐環境整合基金會 - 樹藝師
-2017 - 現在：
-    國際樹藝協會 (International Society of Arboriculture, ISA) - 認證樹木風險評估師
+|2010 - 2013|香港城市大學 - 應用生物系畢業|
+|2015 - 現在|國際樹藝協會 (International Society of Arboriculture, ISA) - 認證樹藝師|
+|2015 - 2020|財團法人梧桐環境整合基金會 - 樹藝師|
+|2017 - 現在|國際樹藝協會 (International Society of Arboriculture, ISA) - 認證樹木風險評估師|
